@@ -19,6 +19,7 @@ Equivalences:
 - MetaMask = NEOLine or O3
   - NEOLine: [Chrome extension](https://chrome.google.com/webstore/detail/neoline/cphhlgmgameodnhkjdmkpanlelnlohao) | [Docs](https://neoline.cn/dapi/)
   - O3: [Desktop wallet](https://o3.network) | [Docs](https://docs.o3.network/docs/dapiIntro/)
+- Portis = [NeoLogin](https://neologin.io/)
 - Web3 = [neon-js](https://github.com/CityOfZion/neon-js) | [Docs](https://cityofzion.io/neon-js/) | [JSFiddle Examples](https://github.com/CityOfZion/neon-js/blob/master/examples/browser/README.md)
 - Mist = [nOS](https://nos.io)
 - Geth = [neo-cli](https://github.com/neo-project/neo-cli) or [neo-python](https://github.com/CityOfZion/neo-python)
@@ -27,7 +28,7 @@ Equivalences:
 - Solidity = [C#](https://github.com/neo-project/neo-compiler) or [Python](https://github.com/cityOfZion/neo-boa)
   - There are more languages that can be used to code smart contracts, such as Java or Go, but the compilers and the tooling around them are not as mature as the ones available for C# and Python so use at your own risk.
   - Remix IDE = [Neocompiler](https://neocompiler.io/#!/ecolab/compilers)
-  - Differences:
+  - Main differences:
     - NEO smart contracts can't send NEO or GAS by themselves, they can only send NEP-5 tokens. NEO smart contracts can receive and store NEO or GAS, but to transfer these a transaction must be crafted and sent by a node in the NEO network.
     - NEO smart contracts can return data of arbitrary length, so returning dynamic arrays is possible.
 - ERC20 = [NEP-5](https://github.com/neo-project/proposals/blob/master/nep-5.mediawiki)
