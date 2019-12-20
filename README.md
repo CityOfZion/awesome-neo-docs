@@ -58,6 +58,7 @@ Equivalences:
 - [Explanation of stack isolation and why it is needed](https://medium.com/neo-smart-economy/upgrade-of-neovm-36ee232835d9)
 - [NeoVM architecture explanation and Opcode reference](https://docs.neo.org/developerguide/en/articles/neo_vm.html)
 - [Syscall reference](https://docs.neo.org/developerguide/en/articles/smart_contract.html)
+- [Opcode costs](https://docs.neo.org/docs/en-us/sc/fees.html)
 
 ## [Advanced] How does the P2P protocol work?
 - [Overview, examples and quick reference](https://docs.neo.org/developerguide/en/articles/network_protocol.html)
