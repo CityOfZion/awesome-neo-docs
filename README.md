@@ -18,11 +18,11 @@ Read first the docs marked with **[Basic]**, then the **[Intermediate]** ones an
 Equivalences:
 - MetaMask = NEOLine or O3
   - O3: [Desktop wallet](https://o3.network) | [Docs](https://docs.o3.network/docs/dapiIntro/)
-  - NeoLogin : [Decentralized web wallet](https://neologin.io/) | [Docs](https://neologin.io/api)
+  - NeoLogin : [Decentralized web wallet](https://neologin.io/) | [Docs](https://neologin.io/api/)
   - NEOLine: [Chrome extension](https://chrome.google.com/webstore/detail/neoline/cphhlgmgameodnhkjdmkpanlelnlohao) | [Docs](https://neoline.cn/dapi/)
 - Web3 = [neon-js](https://github.com/CityOfZion/neon-js) | [Docs](https://cityofzion.io/neon-js/) | [JSFiddle Examples](https://github.com/CityOfZion/neon-js/blob/master/examples/browser/README.md)
 - Mist = [nOS](https://nos.io)
-- Geth = [neo-cli](https://github.com/neo-project/neo-cli) or [neo-python](https://github.com/CityOfZion/neo-python)
+- Geth = [neo-node](https://github.com/neo-project/neo-node) or [neo-python](https://github.com/CityOfZion/neo-python)
 - Ganache = [neo-local](https://github.com/CityOfZion/neo-local)
 - ENS = [NNS](https://neons.name/index_En.html)
 - Solidity = [C#](https://github.com/neo-project/neo-compiler) or [Python](https://github.com/cityOfZion/neo-boa)
