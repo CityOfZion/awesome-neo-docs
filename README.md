@@ -39,6 +39,7 @@ Equivalences:
 
 ## [Basic] How do smart contracts work?
 - [Introduction to smart contracts](https://docs.neo.org/docs/en-us/sc/gettingstarted/introduction.html)
+- [Smart Contract Tutorial](https://neo-ngd.github.io/NEO-Tutorial/en/9-smartContract/)
 
 ## [Basic] How does consensus formation work in NEO?
 1. Read [this medium article](https://medium.com/neo-smart-economy/neos-dbft-2-0-single-block-finality-with-improved-availability-6a4aca7bd1c4)
